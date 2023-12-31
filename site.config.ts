@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'eddiehe99',
   github: 'eddiehe99',
-//   linkedin: 'fisch2',
+  //   linkedin: 'fisch2',
   mastodon: 'https://mastodon.world/@eddiehe99', // optional mastodon profile URL, provides link verification
   newsletter: 'https://paragraph.xyz/@eddiehe', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -49,8 +49,8 @@ export default siteConfig({
   pageUrlOverrides: null,
 
   // whether to use the default notion navigation style or a custom one with links to
-  // important pages
-//   navigationStyle: 'default'
+  // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
+  // navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
     {
