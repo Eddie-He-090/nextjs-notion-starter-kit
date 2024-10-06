@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Eddie's Blog",
-  domain: 'eddie-he.vercel.app',
+  domain: 'en.blog.eddiehe.top',
   author: 'Eddie He',
 
   // open graph metadata (optional)
