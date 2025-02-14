@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Eddie's Blog",
-  domain: 'en.blog.eddiehe.top',
+  domain: 'en-blog.eddiehe.top',
   author: 'Eddie He',
 
   // open graph metadata (optional)
@@ -60,6 +60,10 @@ export default siteConfig({
     {
       title: 'Contact',
       pageId: '17941b0ab247459f9154f8831ce34c5b'
+    },
+    {
+      title: 'Chinese',
+      pageId: '1c577e35ee7f41bb931d4eb069b205e3'
     }
   ]
 })
